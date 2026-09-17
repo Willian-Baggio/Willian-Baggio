@@ -4,10 +4,6 @@
   Desenvolvedor Python • Automação • APIs • IA
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,postgres,mysql,mongodb,docker,git,github" />
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
